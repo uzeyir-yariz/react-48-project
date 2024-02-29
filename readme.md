@@ -38,6 +38,6 @@
 
 > bonus level
 
-[[!https://www.youtube.com/embed/a_7Z7C_JCyo?si=aaYm8LYZJ5DUkNQc]]
+![[https://www.youtube.com/embed/a_7Z7C_JCyo?si=aaYm8LYZJ5DUkNQc]]
 
 > tüm [projeler](https://contactmentor.com/best-react-projects-for-beginners-easy/)
