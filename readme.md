@@ -9,7 +9,7 @@
 - [X] basic register form
 - [x] React Quiz App
 - [x] React Navbar
-- [ ] User Login app using Auth0
+- [ ] User Login app using firebase auth
 - [ ] Todo List
 - [ ] React Shopping Cart with Deployment
 - [ ] Calculator with React and Flexbox
